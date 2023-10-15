@@ -1,0 +1,19 @@
+.box {
+    background-color: rgb(59, 97, 146);
+    border: 10px solid black;
+    padding-left: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-right: 32px;
+    width: 700px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+h1 {
+    font-size: medium;
+
+}

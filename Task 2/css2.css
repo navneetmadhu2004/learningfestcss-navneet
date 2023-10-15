@@ -1,0 +1,11 @@
+h1 {
+    padding-left: 10px;
+    padding-right: 10px;
+   width: fit-content;
+   background-color: red;
+   color: black;
+   border-top: 4px solid rgb(59, 57, 57);
+   border-bottom: 4px solid rgb(59, 57, 57);
+   border-right: 4px solid rgb(59, 57, 57);
+   border-left: 4px solid rgb(59, 57, 57);
+}

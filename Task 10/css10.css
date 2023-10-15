@@ -1,0 +1,20 @@
+h3 {
+    text-align: left;
+    font-size: large;
+}
+h4 {
+    text-align: right;
+    font-size: large;
+}
+h2 {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.right {
+    text-align: right;
+}

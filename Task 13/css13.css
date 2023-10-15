@@ -1,0 +1,101 @@
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a {
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.b{
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.c{
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.d{
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.two {
+    display: flex;
+    justify-content: center;
+}
+.e{
+    margin-right: 400px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.f{
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.three {
+    display:flex ;
+    justify-content: center;
+}
+.g{
+    margin-right: 400px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.h{
+    margin-right: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.four {
+    display: flex;
+    justify-content: center;
+}
+.i{
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.j{
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.k{
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
+.l{
+    margin-top: 50px;
+    margin-right: 100px;
+    height: 50px;
+    width: 50px;
+    border: 1px black solid;
+}
